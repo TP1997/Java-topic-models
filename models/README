@@ -1,0 +1,8 @@
+CAMEL.java : Complementary Aspect-Based Opinion Mining (https://ieeexplore.ieee.org/abstract/document/8071005)
+CAMEL_wo_opinion.java : CAMEL model but without opinion modeling
+C_LDA.java : LDA type of topic model over multiple collections
+C_LDA_simple.java : ^^
+Sentence_LDA.java : LDA type of topic model with assumption that each sentence is assigned to a single topic
+LDA.java : LDA
+
+Gibbs sampling inference with Minka's fixed point iteration for hyperparameter optimization.
